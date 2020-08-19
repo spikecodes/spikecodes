@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey! I'm Spike
 
+- ⚒️ I’m currently working on [Libreddit](https://github.com/spikecodes/libreddit)
+- 🌱 I’m currently learning [Rust](https://rust-lang.org)
+- 🧠 I am passionate about:
+  - 🕵️ Privacy
+  - 🔒 Security
+  - 🕊️ Freedom
+  
 <!--
 **spikecodes/spikecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
