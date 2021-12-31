@@ -1,4 +1,4 @@
-### Hey! I'm Spike
+### Hey! I'm Spike :wave:
 
 - ⚒️ I’m currently working on [Libreddit](https://github.com/spikecodes/libreddit)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
@@ -6,6 +6,9 @@
   - 🕵️ Privacy
   - 🔒 Security
   - 🕊️ Freedom
+
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=spikecodes&theme=dark&show_icons=true)
 
 #### Want to support my work?
 
