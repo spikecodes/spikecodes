@@ -1,11 +1,11 @@
 ### Hey! I'm Spike :wave:
 
-- ⚒️ I’m currently working on [Libreddit](https://github.com/spikecodes/libreddit)
+- ⚒️ I’m currently working on [Stotra](https://github.com/spikecodes/spikecodes)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
 - 🧠 I am passionate about:
   - 🕵️ Privacy
   - 🔒 Security
-  - 🕊️ Freedom
+  - 🕊️ Ethical Technology
 
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=spikecodes&theme=dark&show_icons=true)
