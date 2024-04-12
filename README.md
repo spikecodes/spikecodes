@@ -1,7 +1,7 @@
 ### Hey! I'm Spike :wave:
 
-- ⚒️ I’m currently working on [Stotra](https://github.com/spikecodes/spikecodes)
-- 🌱 I’m currently learning [Rust](https://rust-lang.org)
+- ⚒️ I’m currently working on Portal
+- 🌱 I’m learning every day
 - 🧠 I am passionate about:
   - 🕵️ Privacy
   - 🔒 Security
