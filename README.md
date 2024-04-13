@@ -1,11 +1,11 @@
 ### Hey! I'm Spike :wave:
 
 - ⚒️ I’m currently working on Portal
-- 🌱 I’m learning every day
+- 🌱 I love learning every day
 - 🧠 I am passionate about:
-  - 🕵️ Privacy
-  - 🔒 Security
-  - 🕊️ Ethical Technology
+  - AI
+  - Entrepreneurship
+  - Innovation
 
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=spikecodes&theme=dark&show_icons=true)
