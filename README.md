@@ -1,12 +1,25 @@
-### Hey! I'm Spike :wave:
+## Hey! I'm Spike :wave:
 
-- ⚒️ I’m currently working on Portal
-- 🌱 I love learning every day
-- 🧠 I am passionate about:
-  - AI
-  - Entrepreneurship
-  - Innovation
+https://www.linkedin.com/in/spike-ocarroll/
 
+I'm a CS student at UC Irvine pursuing tech entrepreneurship.
+- 💼 Incoming SWE Intern @ Ramp
+- 🚀 Created [Libreddit](https://github.com/libreddit/libreddit): 4 million+ monthly active users
+- 💻 Built [Peacock Browser](https://github.com/spikecodes/peacock): 30,000 downloads
+- 🖌️ Freelance Web Designer since 2021
+
+### WINS: ($120k total winnings)
+- 🥇 1st place, UC Berkeley AI Hackathon, 2024
+- 🥇 1st place, LAHacks Google Company Challenge, 2024
+- 🥇 1st place, UCI Stella Zhang New Venture Competition, 2024
+- 🥇 1st place, UCI Butterworth Product Design Competition, 2024
+- 🥇 1st place, UCI AI Innovation Challenge in Student Experience, 2024
+- 🥈 2nd place, SoCal Super Pitch Competition, 2024
+
+
+**I'm passionate about software engineering, entrepreneurship, and UI/UX design.**
+
+---
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=spikecodes&theme=dark&show_icons=true)
 
