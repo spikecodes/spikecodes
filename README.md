@@ -1,6 +1,6 @@
 ## Hey! I'm Spike :wave:
 
-https://www.linkedin.com/in/spike-ocarroll/
+**[LinkedIn](https://www.linkedin.com/in/spike-ocarroll/)** | **[Website](https://spike.codes/)** | **[Devpost](https://devpost.com/spikecodes)**
 
 I'm a CS student at UC Irvine pursuing tech entrepreneurship.
 - 💼 Incoming SWE Intern @ Ramp
