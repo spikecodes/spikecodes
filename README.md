@@ -2,8 +2,8 @@
 
 **[LinkedIn](https://www.linkedin.com/in/spike-ocarroll/)** | **[Website](https://spike.codes/)** | **[Devpost](https://devpost.com/spikecodes)**
 
-I'm a CS student at UC Irvine pursuing tech entrepreneurship.
-- 💼 Incoming SWE Intern @ Ramp
+I'm a passionate software engineer and open source contributor.
+- 💼 Software Engineer @ SpaceX
 - 🚀 Created [Libreddit](https://github.com/libreddit/libreddit): 4 million+ monthly active users
 - 💻 Built [Peacock Browser](https://github.com/spikecodes/peacock): 30,000 downloads
 - 🖌️ Freelance Web Designer since 2021
@@ -15,9 +15,6 @@ I'm a CS student at UC Irvine pursuing tech entrepreneurship.
 - 🥇 1st place, UCI Butterworth Product Design Competition, 2024
 - 🥇 1st place, UCI AI Innovation Challenge in Student Experience, 2024
 - 🥈 2nd place, SoCal Super Pitch Competition, 2024
-
-
-**I'm passionate about software engineering, entrepreneurship, and UI/UX design.**
 
 ---
 
