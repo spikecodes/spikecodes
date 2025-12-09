@@ -14,8 +14,5 @@ I'm a passionate software engineer and open source contributor.
 - 🥇 1st place, UCI Stella Zhang New Venture Competition, 2024
 - 🥇 1st place, UCI Butterworth Product Design Competition, 2024
 - 🥇 1st place, UCI AI Innovation Challenge in Student Experience, 2024
+- 🥈 2nd place, Mercor Inference-Time Compute Hackathon, 2025
 - 🥈 2nd place, SoCal Super Pitch Competition, 2024
-
----
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=spikecodes&theme=dark&show_icons=true)
