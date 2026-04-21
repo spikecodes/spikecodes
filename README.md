@@ -8,7 +8,7 @@ I'm a passionate software engineer and open source contributor.
 - 💻 Built [Peacock Browser](https://github.com/spikecodes/peacock): 30,000 downloads
 - 🖌️ Freelance Web Designer since 2021
 
-### WINS: ($120k total winnings)
+### Hackathons & Pitch Competitions:
 - 🥇 1st place, UC Berkeley AI Hackathon, 2024
 - 🥇 1st place, LAHacks Google Company Challenge, 2024
 - 🥇 1st place, UCI Stella Zhang New Venture Competition, 2024
